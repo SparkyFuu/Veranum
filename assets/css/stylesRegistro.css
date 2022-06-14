@@ -1,0 +1,41 @@
+img {
+  margin: 5px;
+}
+
+.container button {
+  margin: 5px;
+}
+
+.fondo {
+  background-color: rgba(95, 95, 91, 0.322);
+  text-align: center;
+  width: 85%;
+  height: 50%;
+}
+
+.fondo h1,span,option{
+  color: rgb(0, 36, 68);
+}
+
+.casillas{
+  position: relative;
+  left: 50%;
+  
+}
+
+.form-group{
+  position: relative;
+  right: 50%
+}
+
+.btn-send {
+  font-weight: 300;
+  text-transform: uppercase;
+  letter-spacing: 0.2em;
+  width: 80%;
+  margin-left: 3px;
+  margin: 5px;
+}
+
+
+
